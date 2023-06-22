@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="delivery">
+            <Id>a4d3a337-c465-47cd-99c9-682bd83fc0f5</Id>
+            <userId>c75244f1-91d8-4014-bb5e-b99b1ef010b1</userId>
+            <type>delivery</type>
+            <country>Russia</country>
+            <numberAction>2</numberAction>
+            <distance>20000.0</distance>
+            <insurance>true</insurance>
+            <height>123</height>
+            <width>12</width>
+            <length>23</length>
+        </list>
+    </wrapper>
+</wrapper>

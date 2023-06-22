@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+    <wrapper>
+        <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+            <name>viktor</name>
+            <address>464103</address>
+            <userType>admin</userType>
+            <userId>f3482d31-d513-4e79-9a35-95211ee48cb0</userId>
+        </list>
+        <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+            <name>viktor</name>
+            <address>464103</address>
+            <userType>admin</userType>
+            <userId>f3482d31-d513-4e79-9a35-95211ee48cb0</userId>
+        </list>
+        <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="user">
+            <name>nikita</name>
+            <address>1111</address>
+            <userType>client</userType>
+            <userId>f1e1d3e0-851f-426f-808a-e07ea8b3d3cb</userId>
+        </list>
+    </wrapper>
+</wrapper>
